@@ -2,7 +2,7 @@
 This is a simple music application that I made interactive in Invision.
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
- ![](https://github.com/arms0333/Music-app-mobile-UX-UI/blob/master/Screen%20Shot%202017-06-17%20at%207.41.14%20PM.png)    |  ![](https://github.com/arms0333/Music-app-mobile-UX-UI/blob/master/Screen%20Shot%202017-06-17%20at%207.41.14%20PM.png)
+![](https://github.com/arms0333/Music-app-mobile-UX-UI/blob/master/Screen%20Shot%202017-06-17%20at%207.41.14%20PM.png)    | ![](https://github.com/arms0333/Music-app-mobile-UX-UI/blob/master/Screen%20Shot%202017-06-17%20at%207.41.14%20PM.png)
 
 
 

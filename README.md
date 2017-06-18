@@ -2,7 +2,7 @@
 This is a simple music application that I made interactive in Invision.
 
 
-1                          |  2
+Playing a song             |  Changing volume
 :-------------------------:|:-------------------------:
 ![](https://github.com/arms0333/Music-app-mobile-UX-UI/blob/master/Screen%20Shot%202017-06-17%20at%207.41.42%20PM.png)  |  ![](https://github.com/arms0333/Music-app-mobile-UX-UI/blob/master/Screen%20Shot%202017-06-17%20at%207.44.05%20PM.png)
 
